@@ -1,1 +1,16 @@
 node_modules/
+
+# React-specific ignores
+/react-redux-demo/node_modules
+/react-redux-demo/.pnp
+/react-redux-demo/.pnp.js
+/react-redux-demo/coverage
+/react-redux-demo/build
+/react-redux-demo/.DS_Store
+/react-redux-demo/.env.local
+/react-redux-demo/.env.development.local
+/react-redux-demo/.env.test.local
+/react-redux-demo/.env.production.local
+/react-redux-demo/npm-debug.log*
+/react-redux-demo/yarn-debug.log*
+/react-redux-demo/yarn-error.log*
